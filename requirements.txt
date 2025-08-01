@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+chromadb
+sentence-transformers
+groq
+langchain-text-splitters
+plotly
+seaborn
+matplotlib
+scikit-learn
