@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-chromadb
+chromadb==0.5.0
 sentence-transformers
 groq
 langchain-text-splitters
